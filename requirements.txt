@@ -1,0 +1,2 @@
+PDFNetPython3
+pdf2image
